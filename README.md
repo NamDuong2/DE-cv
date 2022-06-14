@@ -22,5 +22,14 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
     - [Data Structure & Algorithm](https://github.com/NamDuong2/thi_ket_thuc_hp_ctdl/): building mini application using C#, OOP, functional style and applying linkedlist to solve problem.
 ## <span>&#128449;</span>Personal Project
 ### [__Talent 5 Academy__](https://talent5.com.vn/)  `2021.3 - 2021.4`
-- [Google Trend Analysis](https://github.com/NamDuong2/ggtrend_pj/): When entering numbers, the system performs figurative tasks that correspond to the numbers entered into Example No. 1: perform a reading of 'keytrends.xls' files (can fix the file name, or enter it), enter the time the search begins, and ends. Make data from google trend from the above conditions, save the acquired data to the database. At the end of option 1, the screen re-displays the original selections. End the program when the user enters 99
+- [Google Trend Analysis](https://github.com/NamDuong2/ggtrend_pj/): 
+    - Working with APIs to get data which meet the requirements from Google trend 
+    - Automating transform & load to PostgreSQL, 
+    - Using Python to interact with database (create table queries data from database into data frame)
+    - Analyze and import to file, create report
 - [Certificate of Completion](assets/chung_nhan_talent5.jpg)
+### [__Kaggle__]()  `2021.5 - 2021.6`
+- [Predict A Winner Before A Final Match In Euro 2021](https://www.kaggle.com/code/namduong/predict-a-winner-before-a-final-match-in-euro-2021): doing feature engineering and building a model to predict a winner in a final match Euro 2021
+### [__Kaggle Competition_](https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning)  `2021.6 - 2021.7`
+- [Learnplatform Covid19 Impact on Digital Learning](https://www.kaggle.com/code/namduong/the-covid19-impact-on-digital-learning): using digital learning data and analysis methods to analyze the impact of Covid19 on student learning as well as answer some key questions
+ 

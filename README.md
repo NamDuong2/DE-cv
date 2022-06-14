@@ -29,7 +29,10 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
     - Analyze and import to file, create report
 - [Certificate of Completion](assets/chung_nhan_talent5.jpg)
 ### [__Kaggle__]()  `2021.5 - 2021.6`
-- [Predict A Winner Before A Final Match In Euro 2021](https://www.kaggle.com/code/namduong/predict-a-winner-before-a-final-match-in-euro-2021): doing feature engineering and building a model to predict a winner in a final match Euro 2021
+- [<span>&#9917;</span>Predict A Winner Before A Final Match In Euro 2021](https://www.kaggle.com/code/namduong/predict-a-winner-before-a-final-match-in-euro-2021): doing feature engineering and building a model to predict a winner in a final match Euro 2021
 ### [__Kaggle Competition_](https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning)  `2021.6 - 2021.7`
-- [Learnplatform Covid19 Impact on Digital Learning](https://www.kaggle.com/code/namduong/the-covid19-impact-on-digital-learning): using digital learning data and analysis methods to analyze the impact of Covid19 on student learning as well as answer some key questions
+- [<span>&#9997;</span>Learnplatform Covid19 Impact on Digital Learning](https://www.kaggle.com/code/namduong/the-covid19-impact-on-digital-learning): using digital learning data and analysis methods to analyze the impact of Covid19 on student learning as well as answer some key questions
+### [__Streaming Processing_]()  `2022.3 - 2022.4`
+- [<span>&#9997;</span>Crypto Tag Big Data Pipeline](https://www.kaggle.com/code/namduong/the-covid19-impact-on-digital-learning):
+- <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>
  

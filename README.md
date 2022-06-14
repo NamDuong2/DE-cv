@@ -21,6 +21,6 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
     - [A*-Pathfinding Snake Game](https://github.com/NamDuong2/A-Pathfinding---Snake/): a mini snake game based on A* pathfinding algorithm.
     - [Data Structure & Algorithm](https://github.com/NamDuong2/thi_ket_thuc_hp_ctdl/): building mini application using C#, OOP, functional style and applying linkedlist to solve problem.
 ## <span>&#128449;</span>Personal Project
-### [__Talent 5 Academy__]()  `2017.1 - 2018.4`
-    - [Google Trend Analysis](https://github.com/NamDuong2/ggtrend_pj/): When entering numbers, the system performs figurative tasks that correspond to the numbers entered into Example No. 1: perform a reading of 'keytrends.xls' files (can fix the file name, or enter it), enter the time the search begins, and ends. Make data from google trend from the above conditions, save the acquired data to the database. At the end of option 1, the screen re-displays the original selections. End the program when the user enters 99
-        - Skilled: <span><img src="https://img.icons8.com/color/48/undefined/python--v1.png"/> Python 3</span>
+### [__Talent 5 Academy__]()  `2020.3 - 2020.4`
+    - [__Google Trend Analysis__](https://github.com/NamDuong2/ggtrend_pj/): When entering numbers, the system performs figurative tasks that correspond to the numbers entered into Example No. 1: perform a reading of 'keytrends.xls' files (can fix the file name, or enter it), enter the time the search begins, and ends. Make data from google trend from the above conditions, save the acquired data to the database. At the end of option 1, the screen re-displays the original selections. End the program when the user enters 99
+

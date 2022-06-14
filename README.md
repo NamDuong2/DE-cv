@@ -20,3 +20,4 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
 - Some mini course projects:
     - [A*-Pathfinding Snake Game](https://github.com/NamDuong2/A-Pathfinding---Snake/): a mini snake game based on A* pathfinding algorithm.
     - [Data Structure & Algorithm](https://github.com/NamDuong2/thi_ket_thuc_hp_ctdl/): building mini application using C#, OOP, functional style and applying linkedlist to solve problem.
+## <span>&#128084;</span>Personal Project

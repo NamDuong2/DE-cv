@@ -37,7 +37,7 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
     - Technology: Lambda Architecture, Kafka, Virtual Machine, Docker, Apache Flink, Cassandra, Flask, Bootstrap, Python, Java, Twitter API, SocketIO, HighChart.js
 ### [__Orchestrate Data Pipelines using Dagster__]()  `2022.6`
 - [Real-estate End to end Pipeline](): Do complete steps in Data Engineer Pipeline from collecting data using web scraping method, build and deploy data lake, data warehouse, transform data and store data in format that BI, data analyst, data science can benefit such as increase queries performance, data availabilty, reliabilty, etc. and orchestrate data pipeline using Dagster 
-    - Technology: Lakehouse Architecture, Minio, Delta lake, Scrapy, Apache Spark, Python, , Dagster     
+    - Technology: Lakehouse Architecture, Minio, Delta lake, Scrapy, Proxy, Apache Spark, Python, Dagster     
   
 
  

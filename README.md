@@ -14,7 +14,7 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
 #### 9. Traditional & Distributed SQL using Trino, Presto, Impala
 
 ## <span>&#127891;</span>Education 
-### __University of Economics Ho Chi Minh (UEH), Ho Chi Minh, Viet Nam__ `2020.8 - 2024.8`
+### __University of Economics Ho Chi Minh (UEH), Ho Chi Minh, Viet Nam__ `2020.8`
 - <u>B.S. in Data Science</u> [Current]
 - Passed Courses & Scores: [[PDF](assets/course_score.pdf)]
 - Some mini course projects:

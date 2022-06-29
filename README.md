@@ -33,7 +33,11 @@ Programing Language: Python, C#, Java, Javascript, Solidity, Scala
 ### [__Kaggle Competition__](https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning)  `2021.6 - 2021.7`
 - [<span>&#9997;</span>Learnplatform Covid19 Impact on Digital Learning](https://www.kaggle.com/code/namduong/the-covid19-impact-on-digital-learning): using digital learning data and analysis methods to analyze the impact of Covid19 on student learning as well as answer some key questions
 ### [__Streaming Processing__]()  `2022.3 - 2022.4`
-- [Twitter Crypto Tag Streaming Pipeline](https://github.com/NamDuong2/CryptoTag---Data-Streaming-Processing):
+- [Twitter Crypto Tag Streaming Pipeline](https://github.com/NamDuong2/CryptoTag---Data-Streaming-Processing): Building a real-time dashboard display the count of hashtag which was collected through API and processed 
+    - Technology: Lambda Architecture, Kafka, Virtual Machine, Docker, Apache Flink, Cassandra, Flask, Bootstrap, Python, Java, Twitter API, SocketIO, HighChart.js
+### [__Orchestrate Data Pipelines using Dagster__]()  `2022.6`
+- [Real-estate End to end Pipeline](): Do complete steps in Data Engineer Pipeline from collecting data using web scraping method, build and deploy data lake, data warehouse, transform data and store data in format that BI, data analyst, data science can benefit such as increase queries performance, data availabilty, reliabilty, etc. and orchestrate data pipeline using Dagster 
+    - Technology: Lakehouse Architecture, Minio, Apache Spark, Python, Delta lake, Dagster     
   
 
  
